@@ -1,0 +1,21 @@
+
+#timer, #task-list, #notes {
+  margin-bottom: 20px;
+}
+
+  button {
+    margin-top: 10px;
+  }
+  html, body {
+    width: 600px; /* Adjust the width */
+    height: 800px; /* Adjust the height */
+    margin: 0;
+    overflow: hidden; /* Prevent scrollbars */
+    font-family: Arial, sans-serif;
+  }
+
+  #container {
+    width: 600px; /* Adjust the width */
+    box-sizing: border-box;
+  }
+
